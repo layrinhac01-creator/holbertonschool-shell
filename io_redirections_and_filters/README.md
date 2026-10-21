@@ -13,3 +13,4 @@ Description of each script in `io_redirections_and_filters`:
 - `11-directories`: counts the number of directories and sub-directories in the current directory, including hidden ones, excluding . and ...
 - `12-newest_files`: displays the 10 newest files in the current directory, one per line, from newest to oldest.
 - `13-unique`: reads a list of words from standard input and prints only the words that appear exactly once, sorted.
+- `14-findthatword`: displays lines containing the pattern root from the file /etc/passwd.
